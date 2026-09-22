@@ -57,11 +57,11 @@ Where A and B represent binary inputs, and Y represents the binary output. The *
 
 # **Circuit**
 
-![][image1]
+![](circuit.jpeg)
 
 # **Result**
 
-![][image2]
+![](result.jpeg)
 
 &nbsp;
 
